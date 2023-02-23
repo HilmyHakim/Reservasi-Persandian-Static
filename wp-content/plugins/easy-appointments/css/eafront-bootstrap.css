@@ -239,7 +239,7 @@
 }
 
 #ea-loader {
-	background-image: url('/wp-content/plugins/easy-appointments/img/ajax-loader.gif');
+	background-image: url('./../img/ajax-loader.gif');
 	background-position: 50% 50%;
 	position: absolute;
 	width: 25px;
